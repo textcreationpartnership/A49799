@@ -1,0 +1,205 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Considerations humbly proposed as well to the officers and souldiers of the army, as to others in order to a quiet and Christian submission to His Highness the Lord Protector : under these general heads following : 1. His legal inauguration, 2. The general consent and approbation, 3. The endowments of minde and abilities that renders him meet, 4. The respects and affections from many to his late father, 5. The concurrance of providence, 6. The honour and safety of our nation : with two queries also humbly proposed to His Highness / by T.L., Gent.</title>
+            <author>T. L., Gent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1658</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49799</idno>
+            <idno type="STC">Wing L71</idno>
+            <idno type="STC">ESTC R18263</idno>
+            <idno type="EEBO-CITATION">12868932</idno>
+            <idno type="OCLC">ocm 12868932</idno>
+            <idno type="VID">94782</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49799)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 94782)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 718:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Considerations humbly proposed as well to the officers and souldiers of the army, as to others in order to a quiet and Christian submission to His Highness the Lord Protector : under these general heads following : 1. His legal inauguration, 2. The general consent and approbation, 3. The endowments of minde and abilities that renders him meet, 4. The respects and affections from many to his late father, 5. The concurrance of providence, 6. The honour and safety of our nation : with two queries also humbly proposed to His Highness / by T.L., Gent.</title>
+                  <author>T. L., Gent.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the publick good,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1658.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cromwell, Richard, 1626-1712.</term>
+               <term>Great Britain --  Politics and government --  1649-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:94782:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 65 -->
+            <p>CONSIDERATIONS Humbly propoſed As well to the <hi>Officers</hi> and <hi>Souldiers</hi> of the <hi>Army,</hi> as to others; In order to a quiet and Chriſtian Submiſſion to his Highneſs the Lord Protector: Under theſe General Heads following;
+<list>
+                  <item>1. <hi>His Legal Inauguration.</hi>
+                  </item>
+                  <item>2. <hi>The general conſent and approbation.</hi>
+                  </item>
+                  <item>3. <hi>The endowments of minde and abilities that renders him meet.</hi>
+                  </item>
+                  <item>4. <hi>The reſpects and affections from many to his late Father.</hi>
+                  </item>
+                  <item>5. <hi>The Concurrance of Providence.</hi>
+                  </item>
+                  <item>6. <hi>The honour and ſafety of our Nation.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>With TWO QUERIES alſo humbly propoſed to his HIGHNESS.</p>
+            <q>
+               <p>Exiſtiment enim non ſine divina quadam Providentia perveniſſe Reges ad ſummam de omnibus Poteſtatem.</p>
+               <bibl>Aug.</bibl>
+            </q>
+            <q>
+               <p>By whoſe appointment men are born, by his appointment alſo Kings are conſtituted fit for the people, <hi>&amp;c.</hi>
+               </p>
+               <bibl>Iren.</bibl>
+            </q>
+            <p>By <hi>T. L.</hi> Gent.</p>
+            <p>
+               <hi>London,</hi> Printed for the publick good, and are to be ſold in <hi>Pauls-church-yard,</hi> and in <hi>Weſtminſter-hall,</hi> 1658.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:94782:2"/>
+            <!-- PDF PAGE 66 -->
+            <pb n="1" facs="tcp:94782:2"/>
+            <!-- PDF PAGE 66 -->
+            <head>CONSIDERATIONS Humbly propoſed As well to the <hi>Officers</hi> and <hi>Souldiers</hi> of the Army, as to others; In order to a quiet and Chriſtian Sub<g ref="char:EOLhyphen"/>miſſion to his Highneſs the Lord Protector.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Hat the Enſtalment of his Highneſs into that place of eminency,<note place="margin">His Legal In<g ref="char:EOLhyphen"/>auguration.</note> care and truſt wherein now he ſtands was Legall, needs be no mans doubt or Heſitation. I con<g ref="char:EOLhyphen"/>feſs that the Righteouſneſs of Proceedings for theſe laſt 20. years, hath been queſtionable and full of
+<pb n="2" facs="tcp:94782:3"/>
+               <!-- PDF PAGE 67 -->Ambiguity, as hath appeared by thoſe fiery Conteſts between men of the ſame Countrey and Religion: But as to the Legitimacy of his Highneſs Intro<g ref="char:EOLhyphen"/>duction, it is written as with a beam of the Sun, there is no better right or property that any man hath to his Inheritance, both the one and the other being joyntly ſuſtained, upheld, and acknowledged by the Law. Nay, the Law of Nature it ſelf, accor<g ref="char:EOLhyphen"/>ding to learned <hi>Grotious,</hi> doth countenance and confirm the preſent Settlement; <hi>For,</hi> ſaith he, <hi>natural Law is the dictate of right Reaſon, and is to be judged by the neceſſary conveniency or inconve<g ref="char:EOLhyphen"/>niency any thing hath to the rational nature.</hi> Again, <hi>We conclude</hi> (ſaith he) <hi>that to be a point of Natures law, which is received for ſuch amongſt all, at leaſt the moſt Civil Nations.</hi> And as <hi>Seneca</hi> ſpeaks well, <hi>Argumentum veritatis eſt aliquid omnibus videri.</hi> Now then, if all Nations Civil, deſires no Ruler but what comes in by Conſent and Law, and that it agrees fully with the rational and ſocial nature ſo to do, then doth the Law of Nature, which is alſo the Law of God, favour and countenance his Highneſs Ingreſs to that high office of Pro<g ref="char:EOLhyphen"/>tector.</p>
+            <p>So then, if the Legallity of his Highneſs ſtan<g ref="char:EOLhyphen"/>dings be ſo evident and perſpicuous, as that the known Laws of the Land, the Law of Nature, and of Nations are ſo congruous with our preſent Governor, certainly then it is the indubitable law of God; for if God would and did lay ſuch ſtrickt injunctions upon the primitive Chriſtians to ſubmit and obey their Governors though Uſurpers, as <hi>Nero,</hi> &amp;c. Certainly it will be very diſpleaſing to God to
+<pb n="3" facs="tcp:94782:3"/>
+               <!-- PDF PAGE 67 -->harbour ſo much as a hard thought againſt one whoſe ſtanding is upon ſuch termes of honour and juſtice.</p>
+            <p>General conſent and approbation,<note place="margin">The general conſent and approbation.</note> is ſuch a thing as hath for a long time departed, and ſtood at a di<g ref="char:EOLhyphen"/>ſtance from us; we have been like the Arke toſſed upon the floods of uncertainties; that hath been our lot for a long tract of time. The Pſalmiſt ſaith of God, That He ſtilleth the raging of the Sea, and the tumults of the people; the Holy Ghoſt ſeemes to intimate,<note place="margin">Pſal. 65.7.</note> that the mindes of the generality of men are as inſtable, and inconſtant as the waves of the Sea, and as apt to fall as ſuddenly into the ſame diſorder, inconvenience and moleſtation. Yet both the one and the other at his rebuke and con<g ref="char:EOLhyphen"/>trole: who is this, ſaith ſome of our Saviour, whom the Seas obey? now then if that diſcord and vari<g ref="char:EOLhyphen"/>ance be turned into amity and agreement, and thoſe inſolent waves of ſtrife and contention, into the ſweet calme of peace and unity, and all men (though once enemies) with one heart, and one minde, ſay this is he, certainly its little leſſe, if at all then a teſtimonial divine.</p>
+            <p>There was a thing called and urged heretofore as an Agreement of the people, but it was onely ſo called, as too ſad experience hath ſufficiently teſtifi<g ref="char:EOLhyphen"/>ed, but the Agreement of the People in reality, and properly ſo called, after many blaſts and ſtormes, is now happily arrived in the faire haven of Peace and Safety.</p>
+            <p>This General conſent of which we now ſpeake, is evident 2. wayes.</p>
+            <p n="1">
+               <pb n="4" facs="tcp:94782:4"/>
+               <!-- PDF PAGE 68 -->
+1. By the peoples Repreſentees met and aſſem<g ref="char:EOLhyphen"/>bled in Parliament.</p>
+            <p n="2">2. By Proclamations with alacrity and cheere<g ref="char:EOLhyphen"/>fulneſs in all places, as alſo by Addreſſes from moſt parts, and from all ſorts of men, which are noone<g ref="char:EOLhyphen"/>day evidences of love, reſpect and ſubmiſſion. And that which is as much as all the reſt, is that all thoſe ſignal teſtimonies were altogether voluntary and unconſtrained, there was not the leaſt ſhadow or appearance of promiſe or allurement on the one hand (ſave the merits of the perſon) nor feare or threatning on the other, that ſhould induce them thereunto: If then the conſent be ſo univerſal, as both by Parliament and the Peoples manifeſtation, ſince and that without any urgency or conſtraint, it follows then, that certainly God and men are a<g ref="char:EOLhyphen"/>greed, and that the two ſticks (as <hi>Ezekiel</hi> ſpeaks) are grown into one.</p>
+            <p>As to thoſe radiant abilities and endowments of mind which iſſue forth upon all occaſions,<note place="margin">The endow<g ref="char:EOLhyphen"/>ments of mind that renders him meet.</note> and as op<g ref="char:EOLhyphen"/>portunity preſents, in conſideration with his Call and approbation, is of very ſoveraign importance to the buſineſſe in hand.</p>
+            <p>By abilities, I meane that wiſdome, courage, ju<g ref="char:EOLhyphen"/>ſtice and mercy which he expreſſes, according to the varietie of affairs that is adminiſtred unto him: As for example; That 4 or 500. Officers, the Repreſen<g ref="char:EOLhyphen"/>tees of the moſt valiant Army in the world, ſhould addreſſe themſelves, firſt, by way of ſubmiſſion, and then to deſire ſome things which he quickly diſcern<g ref="char:EOLhyphen"/>ed not to be convenient (as well as themſelves after<g ref="char:EOLhyphen"/>wards) and to treat them with that ſtrength of rea<g ref="char:EOLhyphen"/>ſon
+<pb n="5" facs="tcp:94782:4"/>
+               <!-- PDF PAGE 68 -->and reſolution, even to the admiration of moſt of thoſe heroick ſpirits: as alſo to entertain the fa<g ref="char:EOLhyphen"/>mous Citizens of <hi>London,</hi> the Army at other times, and other Corporations and Societies of men in their various and diſtinct addreſſes unto him, with that ſweetneſs, candor and affability, and to their excee<g ref="char:EOLhyphen"/>ding ſatisfaction, ſo that as yet it may be ſaid hither<g ref="char:EOLhyphen"/>to as it was of <hi>Titus Veſpatian</hi> that he never ſent any man ſad out of his preſence.</p>
+            <p>I ſay to behave himſelf upon ſuch excellent terms in the morning of his rule and government, argues a princely minde, and well inſpired, and it is enough to fill the hearts of all men with ſatisfaction for the preſent, and of good expectations for the future, and that the ſame ſpecies of fortitude and magnaminity lodges in his breſt, which his good old father of re<g ref="char:EOLhyphen"/>nown expreſt ſo freely: he ſeemes to be like to <hi>Dieneces</hi> the <hi>Spartan;</hi> when one thought to have ter<g ref="char:EOLhyphen"/>rified him, ſaying, That the flight of the <hi>Perſian</hi> arrows would fly ſo thick as to hide the Sun; He an<g ref="char:EOLhyphen"/>ſwered, it is very good news, for then ſhall we fight in the coole ſhade. Now this noble and generous minde in conjunction with love of juſtice and mercy, which are apparent alſo, and will be more manifeſt doubtleſs in due time, is another conſideration, not onely of our ſubmiſſion but rejoycing in him, conſidering alſo, that God hath delivered us from that miſery mentioned in the <hi>Proverbs, Woe to that people whoſe King is a childe.</hi>
+            </p>
+            <p>We have all natural affection for our Children,<note place="margin">The reſpect and affection of many to his Highneſs late Father.</note> Friends, and Allies, and certainly they the ſame for us, we our ſelves would think it a ſtrange ſoleciſme in nature for them that was boſome friends and ac<g ref="char:EOLhyphen"/>quaintance
+<pb n="6" facs="tcp:94782:5"/>
+               <!-- PDF PAGE 69 -->in war and peace, not to be favourable and indulgent to our children in our abſence, eſpecially nothing appearing diſtaſteful or injurious from them, to forfit or reſcind thoſe reſpects which other<g ref="char:EOLhyphen"/>wiſe were due, and they might challenge at their hands.</p>
+            <p>If any of us have a tree that bears plenty of good and pleaſant fruit, all care is taken to nouriſh the ſame, and to graft or inoculate, that ſo we may have more of the ſame ſpecies, the excellency of every kinde being moſt deſireable; it is famouſly known, even to the ends of the earth, that the ſtock bare the execellent fruits of wiſdome, valour, juſtice and mer<g ref="char:EOLhyphen"/>cy; then doubtleſs, if the branch be but wel cultured with our prayers to God, and by council by thoſe that are able and convenient, we ſhall not need to feare but the branch will alſo bring forth fruit accor<g ref="char:EOLhyphen"/>dingly in its ſeaſon.</p>
+            <p>General conſent and approbation to this con<g ref="char:EOLhyphen"/>ſideration is alſo very material:<note place="margin">The concur<g ref="char:EOLhyphen"/>rence of Pro<g ref="char:EOLhyphen"/>vidence.</note> It was ſaid concer<g ref="char:EOLhyphen"/>ning the children of <hi>Iſrael</hi> that came out of <hi>Aegypt</hi> by night, that the dogs did not bark at them, which the Holy Ghoſt takes notice of, and acquaints us therein of the providential care of God toward that people, that ſuch a ſnarling and watchful creature ſhould give no Alarum to the Inhababitants, to preju<g ref="char:EOLhyphen"/>dice or moleſt them in their way, there is not the leaſt murmurings or repininings, nay not of thoſe that are moſt querelous amongſt us that is come to my ken; and not onely ſo, but thoſe of a different minde are now reconciled, what is it there that thus cauſeth the Lamb and the Lyon to lye down together, not long ſince we were even <hi>quot homines, tot ſententiae,</hi> we
+<pb n="7" facs="tcp:94782:5"/>
+               <!-- PDF PAGE 69 -->were even a <hi>Babel,</hi> a heap of confuſion, and now with one heart and one minde, conſenting in one wars and ſtrifes (ſaith St. <hi>James</hi>) comes from our luſts, but peace comes immediately from the God of Peace; generally if you obſerve troubles, ſickneſſes, miſeries and deaths ſprings up out of the dunghil of ſinne and unrighteouſneſs; but tranquility, plenty, health and all good things proceeds onely from the throne of Gods goodneſs and bounty; the face of things ſeems already to look with a more lovely and ſmiling countenance, its true, formerly men were quiet and ſubmiſſive, but it might be obſerved, more for feare and dread then good will by many, but now for love and reſpect. <hi>Old things are paſſed away, and all things are become new</hi>
+            </p>
+            <p>That which the ſword could not do for a long ſeaſon, though weilded with valiant and skilful hands, God Almighty hath undertaken it, who makes the greateſt contrarieties to dwel and abide to<g ref="char:EOLhyphen"/>gether, and hath effected it, <hi>viz.</hi> the peace, quiet, ſafety and glory of our Nation out of that Chaos and diſorder wherein it lay.</p>
+            <p>It is ſuch a kinde a thing which hath been alwayes reputed and eſteemed next or equal to being it ſelf.<note place="margin">Honour and ſafety of the Nation.</note> For ſuppoſe a Nation without Honour and ſafety, you would conclude it miſerable, and according to the Proverb in the High way to beggary and ruine.</p>
+            <p>Therefore firſt the Honour of a Nation conſiſts in its oneneſs and agreement, as it was ſaid of <hi>Jeruſalem</hi> to be a City at unity within it ſelf, a people that are unanimous and agreeing, reſemble not onely <hi>Jeruſa<g ref="char:EOLhyphen"/>lem</hi> the City of God, but alſo the whole univerſe.</p>
+            <p>Where all things move in their proper ſphear,
+<pb n="8" facs="tcp:94782:6"/>
+               <!-- PDF PAGE 70 -->though infinite in number, yet its lovely amiable and delightful to behold the Sun ſhining, the rain falling, the graſſe growing, the fiſh ſwiming, the birds flying, the rivers running, and all in a pleaſant uniformity. But you will ſay theſe are moved neceſſarily. It is true, moſt things do, yet its ſet for our example, having the uſe of reaſon, and the benefit of further revelation by Gods word, we are in a capacity ſufficient to love one another, and to keep our ſelves in peace equal with thoſe things that are neceſſarily ſo.</p>
+            <p>Secondly, The honour of a Nation is provided for, when the people are ſteady and conſtant, and not volatile and flitting; what affiance can any Prince or People have in an unconſtant and unſtable people, that are for one thing to day, and another to mor<g ref="char:EOLhyphen"/>row, as if they were governed by the Moon: we know that in ſacred Writ, its a brand ſet upon perſons that are given to change, and ſo in the judgement of God as well as of men its a diſhonourable thing: Its no mans doubt, but as agreement and certainty tends to the honour of a Nation, it doth alſo upon equal terms turne to the ſafety, and that upon this ground in rea<g ref="char:EOLhyphen"/>ſon. If that diſagreement and unconſtancy renders a people unſafe, and more lyable to a prey, then the contrary muſt needs follow, for the contrary of con<g ref="char:EOLhyphen"/>trarieties have their contrary conſequences: from whence it follows without all controverſie, that ſub<g ref="char:EOLhyphen"/>jection and agreement with perſeverance therein ought to be all mens care and practice, otherwiſe we diſhonour our Nation, as well as our ſelves, and ren<g ref="char:EOLhyphen"/>der our Country unſafe.</p>
+            <div type="part">
+               <pb n="9" facs="tcp:94782:6"/>
+               <!-- PDF PAGE 70 -->
+               <opener>
+                  <salute>Moſt Eminent Sir,</salute>
+               </opener>
+               <p>
+                  <label>Quere 1.</label> VVHether that interpoſition or umpirage in the affairs of Religion be ſecure and ſafe, otherwiſe then to countenance the beſt livers and the beſt ſubjects, as <hi>Tertullian</hi> ſaith, <hi>Timor hominis, Dei honor eſt;</hi> The reaſon is, becauſe many have bro<g ref="char:EOLhyphen"/>ken themſelves to pieces againſt this rock, and it can<g ref="char:EOLhyphen"/>not well be prevented as our preſent caſe and con<g ref="char:EOLhyphen"/>dition ſtands, for at that time that the ſupreame power fals in, and doth peculiariſe any of the formes or me<g ref="char:EOLhyphen"/>thods amongſt us, even at the ſame time doth he make all the reſt his enemies, every party thinking their own way beſt, but the truth is, there is no party but are fitter to ſerve then to rule, and I hope it will be judged ſo: for it is a little too apparent, that give ſome an inch, they will take an ell, ſet them on horſe-back, and they will ride—they have an itch to be beating their fellow-Servants, and more then that alſo, if the Bulruſh have but mire, the Magiſtrate himſelfe ſhall not be quiet on his Throne, except he ſhall receive the lawes of his mind from them alone, and put their humors in execution.</p>
+               <p>
+                  <label>Quere 2.</label> Whether that your Highneſs enemies are not the Armies enemies, and Your friends their friends, and their enemies, Your enemies, and their friends
+<pb n="10" facs="tcp:94782:7"/>
+                  <!-- PDF PAGE 71 -->Your friends; And whether you are not both to maintain one and the ſame cauſe and intereſt; And whether it be likely that that any ſhould ſtrengthen Your hands to do that which all men thinks is in Your heart to do, like unto them: Then whom God in his Providence hath thus involved and joyned together, let no ſuggeſtions, jealouſies or any other thing part aſunder: The common enemy can have no other door of hope left to him in all proba<g ref="char:EOLhyphen"/>bility, but a diviſion amongſt our ſelves, which the great God divert.</p>
+            </div>
+            <trailer>FINIS:</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
